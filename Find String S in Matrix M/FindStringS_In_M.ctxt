@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FindStringS_In_M
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FindStringS_In_M\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=M\ s
+comment2.target=void\ findString(char[][],\ java.lang.String)
+comment3.params=m\ s
+comment3.target=void\ findSRecursion(char[][],\ java.lang.String)
+comment4.params=m\ s\ coordinates\ index\ i\ j
+comment4.target=java.util.ArrayList\ travel(char[][],\ java.lang.String,\ java.util.ArrayList,\ int,\ int,\ int)
+comment5.params=m\ s\ list
+comment5.target=boolean\ checkEqual(char[][],\ java.lang.String,\ java.util.ArrayList)
+numComments=6
